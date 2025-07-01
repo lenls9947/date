@@ -1,0 +1,18 @@
+body{
+    background-color: #FFCAD4;
+    text-align: center;
+}
+
+#mylove{
+    width: 80%;
+    height: 70%;
+    font-size: 300%;
+    padding: 2%;
+    margin: 7%;
+    background-color: #F3ABB6;
+    color: #FBEEE6;
+    text-align: center;
+    border: 3px outset #9F8189;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px gray;
+}   
